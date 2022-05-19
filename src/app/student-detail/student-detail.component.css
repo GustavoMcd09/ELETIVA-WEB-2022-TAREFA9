@@ -1,0 +1,22 @@
+input {
+    border: none;
+    border-radius: 2px 2px 2px 2px;
+    margin-bottom: 3%;
+    width: 380px;
+    height: 30px;
+    font-size: medium;
+    flex-direction: row;
+    display: flex;
+}
+
+label {
+    font-size: medium;
+    color: white;
+}
+
+.colorWhite {
+    color: white;
+    width: 390px;
+    height: 30px;
+    padding-bottom: 3%;
+}
